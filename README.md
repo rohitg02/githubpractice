@@ -1,0 +1,2 @@
+# githubpractice
+Github good practices
